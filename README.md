@@ -10,11 +10,11 @@ This is what we attempt to do:
 After week 5, we found that we have to send and receive data and have hardware output.
 This is our final output:
 We used a pulse sensor and a gesture sensor to control each other's LEDs to transmit our data through our Adafruit IO Feeds.
-![IMG_2422](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/a2770e14-ee9f-45fe-a6db-7443bf07e299)
-![IMG_2403](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/d49c341e-048a-4c2e-929b-323650b03bc1)
-![IMG_2421](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/1a0603c2-a01f-4d05-866b-1db690100e0c)
-![IMG_5132](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/af4e390b-aea5-4c8b-a1ce-219c76094891)
-![IMG_2420](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/5ea567ba-1e7f-4461-a4d8-e7ec82c5ede7)
+![IMG_2422](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/321f5b37-c4f4-407e-ae6c-c43f2306b55e)
+![IMG_2403](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/41981cd6-e8cd-4f6e-ba91-89ad4e43a5be)
+![IMG_2420](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/56c8372d-2665-4211-8f45-b5ea0c576e1b)
+![IMG_2421](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/e72aa6e2-3647-44e7-be71-7e9856a4a28d)
+![IMG_5132](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/0fa7ac95-a918-4363-881d-8ccbe5575792)
 
 This is part of our code：
 The pulse sensor's code:
