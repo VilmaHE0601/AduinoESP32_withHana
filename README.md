@@ -26,3 +26,8 @@ The pulse sensor's code:
 The gusture sensor's code:
 ![Screenshot 2023-10-19 at 6 23 35 PM](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/c297ca83-2fbc-4c26-af01-7a876b1ec31e)
 ![Screenshot 2023-10-20 at 10 14 44 AM](https://github.com/VilmaHE0601/AduinoESP32_withHana/assets/146425185/8e9d8e3f-9859-4c12-9cee-f709d3e3b731)
+
+This is our final video!!!
+https://youtu.be/al-CmtuRask
+
+
